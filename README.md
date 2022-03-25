@@ -1,22 +1,22 @@
 # DFS-algortithm-visualizer
 A DFS algorithm visualizer program
 
-hey!
+Hey!
 In order to run the program, you need to install:
-1. python
-2. pygame
+1. Python
+2. Pygame
 
 Instructions:
 First choice:
 Orange cell = the starting point
 
 Second choice:
-blue cell = the end point
+Blue cell = the end point
 
 Third Choice and further:
-black cell/s = border cells, the path between the two must not cross them
+Black cell/s = border cells, the path between the two must not cross them
 
 pressing spacebar:
-to start the pathfinding search press spacebar
+To start the pathfinding search press spacebar
 
-press C to clear the board
+Press C to clear the board
